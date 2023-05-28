@@ -1,3 +1,7 @@
+'''
+x,y cords
+'''
+
 import matplotlib.pyplot as plt
 
 y_cords = range(-20,20)
